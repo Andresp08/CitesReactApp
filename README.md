@@ -2,6 +2,8 @@
 
 ## View the app on: [https://practical-wing-3f3a21.netlify.app/](https://practical-wing-3f3a21.netlify.app/)
 
+![Cites App](https://github.com/Andresp08/CitesReactApp/blob/master/src/App.png)
+
 ## For download and clone it
 
 In the project directory, you can run:
